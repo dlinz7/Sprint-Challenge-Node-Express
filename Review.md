@@ -7,7 +7,8 @@
 ## Mention two parts of Express that you learned about this week.
 
 ## What is Middleware?
-
+  Every callback that has access to request and response objects is middleware.
+  
 ## What is a Resource?
 
 ## What can the API return to help clients know if a request was successful?
